@@ -1,0 +1,5 @@
+Z:\Сетевое программирование\CW_Web_19.04.18\CW_Web_19.04.18\bin\Debug\CW_Web_19.04.18.exe.config
+Z:\Сетевое программирование\CW_Web_19.04.18\CW_Web_19.04.18\bin\Debug\CW_Web_19.04.18.exe
+Z:\Сетевое программирование\CW_Web_19.04.18\CW_Web_19.04.18\bin\Debug\CW_Web_19.04.18.pdb
+Z:\Сетевое программирование\CW_Web_19.04.18\CW_Web_19.04.18\obj\Debug\CW_Web_19.04.18.exe
+Z:\Сетевое программирование\CW_Web_19.04.18\CW_Web_19.04.18\obj\Debug\CW_Web_19.04.18.pdb

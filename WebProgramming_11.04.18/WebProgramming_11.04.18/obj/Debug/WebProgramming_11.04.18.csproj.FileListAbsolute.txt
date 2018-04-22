@@ -1,0 +1,6 @@
+Z:\Сетевое программирование\WebProgramming_11.04.18\WebProgramming_11.04.18\bin\Debug\WebProgramming_11.04.18.exe.config
+Z:\Сетевое программирование\WebProgramming_11.04.18\WebProgramming_11.04.18\bin\Debug\WebProgramming_11.04.18.exe
+Z:\Сетевое программирование\WebProgramming_11.04.18\WebProgramming_11.04.18\bin\Debug\WebProgramming_11.04.18.pdb
+Z:\Сетевое программирование\WebProgramming_11.04.18\WebProgramming_11.04.18\obj\Debug\WebProgramming_11.04.18.exe
+Z:\Сетевое программирование\WebProgramming_11.04.18\WebProgramming_11.04.18\obj\Debug\WebProgramming_11.04.18.pdb
+Z:\Сетевое программирование\WebProgramming_11.04.18\WebProgramming_11.04.18\obj\Debug\WebProgramming_11.04.18.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+Z:\Сетевое программирование\CW_Web_16.04.18\DnsServer\DnsServer\bin\Debug\DnsServer.exe.config
+Z:\Сетевое программирование\CW_Web_16.04.18\DnsServer\DnsServer\bin\Debug\DnsServer.exe
+Z:\Сетевое программирование\CW_Web_16.04.18\DnsServer\DnsServer\bin\Debug\DnsServer.pdb
+Z:\Сетевое программирование\CW_Web_16.04.18\DnsServer\DnsServer\obj\Debug\DnsServer.exe
+Z:\Сетевое программирование\CW_Web_16.04.18\DnsServer\DnsServer\obj\Debug\DnsServer.pdb

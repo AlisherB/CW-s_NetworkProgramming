@@ -1,0 +1,6 @@
+Z:\Сетевое программирование\CW_Web_16.04.18\UDP_Client\UDP_Client\bin\Debug\UDP_Client.exe.config
+Z:\Сетевое программирование\CW_Web_16.04.18\UDP_Client\UDP_Client\bin\Debug\UDP_Client.exe
+Z:\Сетевое программирование\CW_Web_16.04.18\UDP_Client\UDP_Client\bin\Debug\UDP_Client.pdb
+Z:\Сетевое программирование\CW_Web_16.04.18\UDP_Client\UDP_Client\obj\Debug\UDP_Client.csprojResolveAssemblyReference.cache
+Z:\Сетевое программирование\CW_Web_16.04.18\UDP_Client\UDP_Client\obj\Debug\UDP_Client.exe
+Z:\Сетевое программирование\CW_Web_16.04.18\UDP_Client\UDP_Client\obj\Debug\UDP_Client.pdb
